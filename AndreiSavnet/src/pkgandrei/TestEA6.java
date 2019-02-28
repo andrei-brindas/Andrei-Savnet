@@ -26,6 +26,7 @@ public class TestEA6 {
 		return rev;
 	}
 
+// comment
 	public static void main(String[] args) {
 		System.out.println(Arrays.toString(intToArray(120)));
 	}
